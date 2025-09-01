@@ -7,7 +7,7 @@
 
 | Matrícula |           Nome Completo           |
 | :-------: | :-------------------------------: |
-| 200041959 | Mauricio Machadon Fernandes Filho |
+| 200041959 | Mauricio Machado Fernandes Filho |
 |    ---    |                ---                |
 
 Definição do trabalho
