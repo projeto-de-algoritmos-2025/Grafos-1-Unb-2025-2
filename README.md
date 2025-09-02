@@ -16,6 +16,10 @@ Para o Trabalho 1 a dupla optou por solucionar questões da plataforma LeetCode.
 
 Sobre a realização do trabalho, cada exercício contém seu código resposta, screenshots da tela de submissão do LeetCode e vídeo de até 5 minutos explicando objetivamente as resoluções porpostas.
 
+**Definição do trabalho Color Fill Game:**
+
+O Color Fill Game é uma aplicação interativa desenvolvida em Flutter que demonstra conceitos de grafos através de um jogo de preenchimento de cores. O usuário pode pintar quadrados individuais ou usar um algoritmo de busca em largura (BFS) para preencher áreas conectadas, simulando a propagação de cores em um grafo. A aplicação inclui uma paleta de cores, ferramentas de pintura e animação visual do processo de preenchimento.
+
 ## Linguagem utilizada
 
 - Dart
@@ -35,3 +39,9 @@ Sobre a realização do trabalho, cada exercício contém seu código resposta, 
 [Vídeo Solução Exercício 2](https://youtu.be/Y1i2UnJEZto)
 
 ### Exercício 03 - Médio
+
+### Vídeo Demonstração Color Fill Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D2KYNL5yYSY" title="Color Fill Game Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Vídeo Demonstração Color Fill Demo](https://youtu.be/D2KYNL5yYSY)
