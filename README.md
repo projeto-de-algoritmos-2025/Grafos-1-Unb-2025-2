@@ -1,4 +1,4 @@
-# Trabalho 1 - Grafos 1
+<img width="1290" height="528" alt="image" src="https://github.com/user-attachments/assets/c62cfe50-236d-4b6a-aaed-f6873a0f4008" /># Trabalho 1 - Grafos 1
 
 **Número do trabalho:** 1 <br>
 **Conteúdo da Dsiciplina: Grafos**
@@ -33,6 +33,15 @@ O Color Fill Game é uma aplicação interativa desenvolvida em Flutter que demo
 ### Exercício 2 - Minimum Degree of a Connected Trio in a Graph
 
 <img width="1430" height="811" alt="Screenshot 2025-09-01 at 18 45 36" src="https://github.com/user-attachments/assets/e5298c9c-1455-4ab5-a756-1b41c46033cd" />
+
+### Demonstração Collor Fill Demo
+
+<img width="646" height="367" alt="Screenshot 2025-09-02 at 20 23 46" src="https://github.com/user-attachments/assets/3177663d-e980-4643-bf3b-51576b3893a0" />
+<img width="645" height="362" alt="Screenshot 2025-09-02 at 20 24 06" src="https://github.com/user-attachments/assets/68b69ef2-cb19-472f-af10-456f024dc028" />
+<img width="644" height="362" alt="Screenshot 2025-09-02 at 20 24 17" src="https://github.com/user-attachments/assets/309e4fe8-ac40-45b8-8366-8cf4c31e2f72" />
+<img width="645" height="363" alt="Screenshot 2025-09-02 at 20 24 34" src="https://github.com/user-attachments/assets/79a5045c-e73e-4565-9647-9fa8196bf252" />
+
+
 
 ### Exercício 01 - Difícil
 
