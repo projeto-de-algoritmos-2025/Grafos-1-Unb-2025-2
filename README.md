@@ -1,4 +1,4 @@
-<img width="1290" height="528" alt="image" src="https://github.com/user-attachments/assets/c62cfe50-236d-4b6a-aaed-f6873a0f4008" /># Trabalho 1 - Grafos 1
+# Trabalho 1 - Grafos 1
 
 **Número do trabalho:** 1 <br>
 **Conteúdo da Dsiciplina: Grafos**
