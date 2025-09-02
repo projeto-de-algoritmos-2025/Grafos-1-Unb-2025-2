@@ -5,10 +5,10 @@
 
 ## Alunos
 
-| Matrícula |           Nome Completo           |
-| :-------: | :-------------------------------: |
+| Matrícula |          Nome Completo           |
+| :-------: | :------------------------------: |
 | 200041959 | Mauricio Machado Fernandes Filho |
-|    ---    |                ---                |
+|    ---    |               ---                |
 
 Definição do trabalho
 
@@ -26,12 +26,13 @@ O Color Fill Game é uma aplicação interativa desenvolvida em Flutter que demo
 
 ## Screenshots
 
-### Exercício 1 - Longest Cycle in a Graph 
+### Exercício 1 - Longest Cycle in a Graph
+
 <img width="1425" height="807" alt="Screenshot 2025-09-01 at 17 54 16" src="https://github.com/user-attachments/assets/baadf62f-cbe7-49d3-805c-802a52ab8eab" />
 
 ### Exercício 2 - Minimum Degree of a Connected Trio in a Graph
-<img width="1430" height="811" alt="Screenshot 2025-09-01 at 18 45 36" src="https://github.com/user-attachments/assets/e5298c9c-1455-4ab5-a756-1b41c46033cd" />
 
+<img width="1430" height="811" alt="Screenshot 2025-09-01 at 18 45 36" src="https://github.com/user-attachments/assets/e5298c9c-1455-4ab5-a756-1b41c46033cd" />
 
 ### Exercício 01 - Difícil
 
@@ -49,6 +50,6 @@ O Color Fill Game é uma aplicação interativa desenvolvida em Flutter que demo
 
 ### Vídeo Demonstração Color Fill Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2KYNL5yYSY" title="Color Fill Game Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Color Fill Game Demo](https://img.youtube.com/vi/D2KYNL5yYSY/0.jpg)](https://youtu.be/D2KYNL5yYSY)
 
 [Vídeo Demonstração Color Fill Demo](https://youtu.be/D2KYNL5yYSY)
