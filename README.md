@@ -8,7 +8,7 @@
 | Matrícula |          Nome Completo           |
 | :-------: | :------------------------------: |
 | 200041959 | Mauricio Machado Fernandes Filho |
-|    ---    |               ---                |
+| 221008202 | José Eduardo Vieira do Prado     |
 
 Definição do trabalho
 
