@@ -23,6 +23,7 @@ O Color Fill Game é uma aplicação interativa desenvolvida em Flutter que demo
 ## Linguagem utilizada
 
 - Dart
+- C
 
 ## Screenshots
 
