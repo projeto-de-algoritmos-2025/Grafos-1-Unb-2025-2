@@ -58,6 +58,10 @@ O Color Fill Game é uma aplicação interativa desenvolvida em Flutter que demo
 
 ### Exercício 03 - Médio
 
+[133. Clone Graph](https://leetcode.com/problems/clone-graph/submissions/1759722700)
+
+[Vídeo Solução Exercício 3 - em construção]()
+
 ### Vídeo Demonstração Color Fill Demo
 
 [![Color Fill Game Demo](https://img.youtube.com/vi/D2KYNL5yYSY/0.jpg)](https://youtu.be/D2KYNL5yYSY)
