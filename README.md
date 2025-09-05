@@ -35,6 +35,11 @@ O Color Fill Game é uma aplicação interativa desenvolvida em Flutter que demo
 
 <img width="1430" height="811" alt="Screenshot 2025-09-01 at 18 45 36" src="https://github.com/user-attachments/assets/e5298c9c-1455-4ab5-a756-1b41c46033cd" />
 
+### Exercício 3 - Clone graph
+
+[!printCloneGraph](./imgs/Captura%20de%20tela%202025-09-04%20153100.png)
+
+
 ### Demonstração Collor Fill Demo
 
 <img width="646" height="367" alt="Screenshot 2025-09-02 at 20 23 46" src="https://github.com/user-attachments/assets/3177663d-e980-4643-bf3b-51576b3893a0" />
