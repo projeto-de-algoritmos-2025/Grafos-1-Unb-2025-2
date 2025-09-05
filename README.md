@@ -41,6 +41,8 @@ O Color Fill Game é uma aplicação interativa desenvolvida em Flutter que demo
 
 ### Exercício 4 - XYZ
 
+![printLongestIncreasingPathinAMatrix](./imgs/Captura%20de%20tela%202025-09-05%20194921.png)
+
 ### Demonstração Collor Fill Demo
 
 <img width="646" height="367" alt="Screenshot 2025-09-02 at 20 23 46" src="https://github.com/user-attachments/assets/3177663d-e980-4643-bf3b-51576b3893a0" />
@@ -70,7 +72,7 @@ O Color Fill Game é uma aplicação interativa desenvolvida em Flutter que demo
 
 ### Exercício 04 - Difícil
 
-[000. XYZ](https://leetcode.com/problems/submission-here)
+[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/1760934590)
 
 [Vídeo Solução Exercício 4 - em construção]()
 
