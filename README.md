@@ -1,7 +1,7 @@
 # Trabalho 1 - Grafos 1
 
 **Número do trabalho:** 1 <br>
-**Conteúdo da Dsiciplina: Grafos**
+**Conteúdo da Disciplina: Grafos**
 
 ## Alunos
 
@@ -14,7 +14,7 @@ Definição do trabalho
 
 Para o Trabalho 1 a dupla optou por solucionar questões da plataforma LeetCode. Seguindo as orientações do professor Maurício Serrano, resolvemos 4 desafios. Três do nível difícil e um do nível médio. Dessa maneira, a dupla busca demonstrar o conhecimento adquirido durante as aulas e estudos sobre o tema Grafos 1.
 
-Sobre a realização do trabalho, cada exercício contém seu código resposta, screenshots da tela de submissão do LeetCode e vídeo de até 5 minutos explicando objetivamente as resoluções porpostas.
+Sobre a realização do trabalho, cada exercício contém seu código resposta, screenshots da tela de submissão do LeetCode e vídeo de até 5 minutos explicando objetivamente as resoluções propostas.
 
 **Definição do trabalho Color Fill Game:**
 
